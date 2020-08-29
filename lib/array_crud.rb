@@ -16,7 +16,6 @@ famous_cats.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-famous_cats = ["lil' bub", "grumpy cat", "bob", "Maru"]
  
 famous_cats.unshift (element)
  binding.pry
