@@ -26,7 +26,6 @@ array.pop
 puts famous_cats.inspect 
 
 return array
-binding.pry 
 end
 
 def remove_element_from_start_of_array(array)
