@@ -22,7 +22,7 @@ end
 
 def remove_element_from_end_of_array(array)
 famous_cats = ["lil' bub", "grumpy cat", "bob", "Maru"]
- 
+ binding.pry 
 puts famous_cats.inspect 
 
 return arrays
