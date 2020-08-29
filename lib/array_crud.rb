@@ -22,7 +22,7 @@ end
 
 def remove_element_from_end_of_array(array)
 famous_cats = ["lil' bub", "grumpy cat", "bob", "Maru"]
-arrays = famous_cats.pop 
+arrays.pop (element)
  
 puts famous_cats.inspect 
 
