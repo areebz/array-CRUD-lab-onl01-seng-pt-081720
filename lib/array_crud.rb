@@ -26,7 +26,7 @@ arrays = famous_cats.pop
  
 puts famous_cats.inspect 
 
-puts arrays
+return arrays
 
 end
 
