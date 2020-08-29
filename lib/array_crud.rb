@@ -25,10 +25,6 @@ end
 
 def remove_element_from_start_of_array(array)
 array.shift
- 
-puts famous_cats.inspect
-# > ["grumpy cat", "Maru"]
-puts array 
 end
 
 def retrieve_element_from_index(array,index)
