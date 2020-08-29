@@ -4,6 +4,7 @@ def create_an_empty_array
  [] 
 end
 
+def
 famous_cats = ["lil' bub", "grumpy cat", "bob", "Maru"]
 end
 
