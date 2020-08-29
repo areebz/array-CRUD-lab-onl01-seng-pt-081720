@@ -16,23 +16,19 @@ famous_cats.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
- 
-array.unshift (element)
+  array.unshift (element)
 end
 
 def remove_element_from_end_of_array(array)
-famous_cats = ["lil' bub", "grumpy cat", "bob", "Maru"]
-array.pop
-
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
-  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
-lil_bub = famous_cats.shift
+array.shift
  
 puts famous_cats.inspect
 # > ["grumpy cat", "Maru"]
-puts lil_bub
+puts array 
 end
 
 def retrieve_element_from_index(array,index)
