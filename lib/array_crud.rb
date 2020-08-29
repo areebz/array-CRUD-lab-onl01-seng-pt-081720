@@ -23,9 +23,7 @@ end
 def remove_element_from_end_of_array(array)
 famous_cats = ["lil' bub", "grumpy cat", "bob", "Maru"]
 array.pop
-puts famous_cats.inspect 
 
-return array
 end
 
 def remove_element_from_start_of_array(array)
