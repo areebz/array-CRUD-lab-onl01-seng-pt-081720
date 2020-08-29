@@ -26,7 +26,7 @@ array.pop
 binding.pry 
 puts famous_cats.inspect 
 
-return arrays
+return array
 
 end
 
